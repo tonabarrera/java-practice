@@ -21,3 +21,10 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+java-funcional/.idea/aws.xml
+java-funcional/.idea/inspectionProfiles/
+java-funcional/.idea/misc.xml
+java-funcional/.idea/modules.xml
+java-funcional/.idea/vcs.xml
+java-funcional/ejemplos/ejemplos.iml
